@@ -1,0 +1,60 @@
+.body{   
+    background-repeat: no-repeat;
+    height: 629px;
+}
+.m{
+    border:3px #6e6e6e ridge;
+    height:350px;
+    width: 480px;
+}
+.n{
+    height: 300px;
+}
+.b{
+    position: relative;
+    top: 10px;
+    left: 180px;
+    text-decoration: none;
+    color: #000000;
+}
+.v{
+    border:2px #000000 ridge;
+    background-color: #ffffff;
+    color: #000000;
+    height: 80px;
+}
+label{
+    top: 2px;
+}
+.c{
+    position: relative;
+    left: 775px;
+}
+button{
+    position: relative;
+    top: 1px;
+    height: 23px;
+}
+.z{
+    position: relative;
+    border:3px #6e6e6e ridge;
+    height:350px;
+    width: 480px;
+    left: 500px;
+    top: -372px;
+}
+.x{
+    height: 300px;
+    width: 480px;
+}
+.l{
+    position: relative;
+    top: 10px;
+    left: 180px;
+    text-decoration: none;
+    color: #000000;
+}
+.p{
+    text-decoration: none;
+    color: #000000;
+}
